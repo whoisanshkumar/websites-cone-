@@ -1,4 +1,4 @@
-# websites-cone-
+# websites-cone
 In this project I sarted the web dev. form the very beginning .
 <P>
 Rules for this challenge 
