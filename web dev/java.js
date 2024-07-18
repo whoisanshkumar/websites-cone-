@@ -1,1 +1,1 @@
-alert("Kya haal hai bhai kee???")
+alert("Welcome to my website")
