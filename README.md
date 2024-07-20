@@ -30,3 +30,12 @@ Rules for this challenge
   This is the Day 2 of me learning in public 
 Today I make my all social media profile links page with some basic tags of html and basic css file 
 </p>
+<br>
+<h1>20-JULY-2024</h1>
+<br>
+<h2>DAY - 3rd</h2>
+<br>
+<p>
+  This is a day 3rd of me learning in public 
+  Today I make my own basic HTML form by using many tags of html and add some images on my Social media links website and a basic table for practice
+</p>
