@@ -39,3 +39,12 @@ Today I make my all social media profile links page with some basic tags of html
   This is a day 3rd of me learning in public 
   Today I make my own basic HTML form by using many tags of html and add some images on my Social media links website and a basic table for practice
 </p>
+<br>
+<h1>21-JULY-2024</h1>
+<br>
+<h2>DAY - 4th</h2>
+<br>
+<p>
+  Today, I dove into the theory of HTML.<br>
+  I explored concepts like block elements, inline elements, IDs, classes, and much more. It’s fascinating to understand the foundational principles behind web development!
+</p>
