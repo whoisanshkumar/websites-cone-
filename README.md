@@ -48,3 +48,10 @@ Today I make my all social media profile links page with some basic tags of html
   Today, I dove into the theory of HTML.<br>
   I explored concepts like block elements, inline elements, IDs, classes, and much more. It’s fascinating to understand the foundational principles behind web development!
 </p>
+<h1>22-JULY-2024</h1>
+<br>
+<h2>DAY - 5th</h2>
+<br>
+<p>
+  Today, I learned about HTML media tags! I explored how to add video, audio, YouTube videos using iframes, and SVG graphics. Exciting to see how these elements can enhance a webpage!
+</p>
