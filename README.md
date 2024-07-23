@@ -55,3 +55,10 @@ Today I make my all social media profile links page with some basic tags of html
 <p>
   Today, I learned about HTML media tags! I explored how to add video, audio, YouTube videos using iframes, and SVG graphics. Exciting to see how these elements can enhance a webpage!
 </p>
+<h1>23-JULY-2024</h1>
+<br>
+<h2>DAY - 6th</h2>
+<br>
+<p>
+  Today, I delved into Semantic HTML tags and successfully completed my first exercise from the course. Understanding the significance of these tags is a great step forward in my web development journey!
+</p>
