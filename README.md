@@ -62,3 +62,10 @@ Today I make my all social media profile links page with some basic tags of html
 <p>
   Today, I delved into Semantic HTML tags and successfully completed my first exercise from the course. Understanding the significance of these tags is a great step forward in my web development journey!
 </p>
+<h1>24-JULY-2024</h1>
+<br>
+<h2>DAY - 7th</h2>
+<br>
+<p>
+  Today marks one week of my learning journey! I completed the essential knowledge of HTML, wrapping up with Miscellaneous Tags. Now, I'm revising and practicing what I've learned so far. Excited to keep growing and improving!
+</p>
