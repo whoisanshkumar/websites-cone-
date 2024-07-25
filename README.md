@@ -69,3 +69,15 @@ Today I make my all social media profile links page with some basic tags of html
 <p>
   Today marks one week of my learning journey! I completed the essential knowledge of HTML, wrapping up with Miscellaneous Tags. Now, I'm revising and practicing what I've learned so far. Excited to keep growing and improving!
 </p>
+<h1>25-JULY-2024</h1>
+<br>
+<h2>DAY - 8th</h2>
+<br>
+<p>
+  Today, I started learning CSS! I covered the different types:
+<ol>
+<li>Inline CSS</li>
+<li>Internal CSS</li>
+<li>External CSS</li>
+</ol>
+</p>
