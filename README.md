@@ -81,3 +81,10 @@ Today I make my all social media profile links page with some basic tags of html
 <li>External CSS</li>
 </ol>
 </p>
+<h1>26-JULY-2024</h1>
+<br>
+<h2>DAY - 9th</h2>
+<br>
+<p>
+  Today, I learned about CSS selectors, including the universal selector, class selector, descendant selector, and pseudo selector
+</p>
