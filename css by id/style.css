@@ -1,0 +1,32 @@
+.red{
+    color: red;
+}
+#green{
+    background-color: greenyellow;
+}
+/* child selecter */
+div > p {
+    background-color: black;
+    color: yellow;
+}
+/* desendant selecter */
+samp p{
+    color: blue;
+    background-color: aqua;
+}
+/* universal selecter */
+*{
+    margin: 1;
+    padding: 0
+    ;
+}
+/* pseudo selecter */
+a:visited{
+    color: rgb(51, 255, 0);
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: chocolate;
+}
