@@ -88,3 +88,10 @@ Today I make my all social media profile links page with some basic tags of html
 <p>
   Today, I learned about CSS selectors, including the universal selector, class selector, descendant selector, and pseudo selector
 </p>
+<h1>27-JULY-2024</h1>
+<br>
+<h2>DAY - 10th</h2>
+<br>
+<p>
+  Today, I learned about the CSS box model, including margin, border, padding, and more. Exciting to see how these elements shape web design!
+</p>
