@@ -95,3 +95,18 @@ Today I make my all social media profile links page with some basic tags of html
 <p>
   Today, I learned about the CSS box model, including margin, border, padding, and more. Exciting to see how these elements shape web design!
 </p>
+<h1>28-JULY-2024</h1>
+<br>
+<h2>DAY - 11th</h2>
+<br>
+<p>Today, I learned about CSS fonts, text properties, and color properties. Excited to apply these fundamentals to my web designs!</p>
+<h1>29-JULY-2024</h1>
+<br>
+<h2>DAY - 12th</h2>
+<br>
+<p>Today, I learned about CSS fonts, text properties, and color properties. Excited to apply these fundamentals to my web designs!</p>
+<h1>30-JULY-2024</h1>
+<br>
+<h2>DAY - 13th</h2>
+<br>
+<p>Today, I completed the second exercise of my course, focusing on CSS basic concepts. The challenge was to style a paragraph inside a div with specific background and text colors using only external CSS. The first paragraph needed a yellow background and red text, while the other paragraphs required a blue background and white text.</p>
