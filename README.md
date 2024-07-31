@@ -110,3 +110,10 @@ Today I make my all social media profile links page with some basic tags of html
 <h2>DAY - 13th</h2>
 <br>
 <p>Today, I completed the second exercise of my course, focusing on CSS basic concepts. The challenge was to style a paragraph inside a div with specific background and text colors using only external CSS. The first paragraph needed a yellow background and red text, while the other paragraphs required a blue background and white text.</p>
+<h1>31-JULY-2024</h1>
+<br>
+<h2>DAY - 14th</h2>
+<br>
+<p>
+  Today, I learned about CSS specificity, cascade, and sizing units like px, rem, em, vh, vw, %. Excited to apply these concepts to my web projects! 
+</p>
